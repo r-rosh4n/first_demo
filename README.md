@@ -1,5 +1,5 @@
 # first_demo
 This is my first repository.
 <br>
-Author - Roshan kr
+Author - Roshan Kr. Sharma
 
